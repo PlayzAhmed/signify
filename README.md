@@ -58,4 +58,6 @@ pip install tensorflow mediapipe opencv-python customtkinter pillow numpy scikit
 ## 🎓 Author
 **Ahmed Ismail**
 
+Passionate high school student & AI enthusiast.
+
 - [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-853b53300/)
