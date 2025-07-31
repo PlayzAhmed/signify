@@ -1,0 +1,9 @@
+tensorflow>=2.10.0
+opencv-python
+numpy
+mediapipe
+scikit-learn
+joblib
+customtkinter
+pillow
+googletrans==4.0.0rc1
